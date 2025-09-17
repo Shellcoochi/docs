@@ -89,6 +89,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1d35904687d05327",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/图表组件/柱状图.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "柱状图 的大纲"
+            }
+          },
+          {
             "id": "4408209119b11d97",
             "type": "leaf",
             "state": {
@@ -122,22 +137,7 @@
             }
           },
           {
-            "id": "1d35904687d05327",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/图表组件/柱状图.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "柱状图 的大纲"
-            }
-          },
-          {
-            "id": "5c29331bcbc1210c",
+            "id": "e9dedb1f28f48f54",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -165,7 +165,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "150e9e601a5412f5",
+  "active": "3e9da63cc2ec8eea",
   "lastOpenFiles": [
     "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/图表组件/柱状图.md",
     "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/图表组件/附件/柱状图1.webm",
