@@ -1,0 +1,260 @@
+{
+  "settingsVersion": "0.0.0",
+  "exportOptions": {
+    "createDocumentContainer": true,
+    "keepModHeaderFooter": false,
+    "addPageIcon": true,
+    "unifyTitleFormat": true,
+    "createPusherElement": true,
+    "makeHeadersTrees": true,
+    "postProcess": true,
+    "displayProgress": true,
+    "inlineHTML": false,
+    "exportPath": "/Users/kaiquanli/cookie/知识库/网页设计器/website",
+    "filesToExport": [
+      "网页设计器/网页设计器使用手册/入门/简介.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/布局组件",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/按钮.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/标记.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/标签.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/对话.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/二维码.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/骨架屏.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/滚动条.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/空状态.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/链接.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/头像.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/图片.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/文本.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/文字提示.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/HTML 元素.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/通用组件/Markdown.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/图表组件/柱状图.md",
+      "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/展示组件"
+    ],
+    "useFallbackRenderer": false,
+    "addBodyClasses": true,
+    "addMathjaxStyles": true,
+    "addHeadTag": true,
+    "backlinkOptions": {
+      "featureId": "backlinks",
+      "enabled": true,
+      "unavailable": false,
+      "alwaysEnabled": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": ".footer",
+        "type": "start"
+      },
+      "displayTitle": "反向链接"
+    },
+    "tagOptions": {
+      "featureId": "tags",
+      "enabled": true,
+      "unavailable": false,
+      "alwaysEnabled": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": ".header .data-bar",
+        "type": "end"
+      },
+      "displayTitle": "",
+      "showInlineTags": true,
+      "showFrontmatterTags": true
+    },
+    "aliasOptions": {
+      "featureId": "aliases",
+      "enabled": true,
+      "unavailable": false,
+      "alwaysEnabled": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": ".header .data-bar",
+        "type": "start"
+      },
+      "displayTitle": "Aliases"
+    },
+    "propertiesOptions": {
+      "featureId": "properties",
+      "enabled": true,
+      "unavailable": false,
+      "alwaysEnabled": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": ".header",
+        "type": "start"
+      },
+      "displayTitle": "属性"
+    },
+    "fileNavigationOptions": {
+      "featureId": "file-navigation",
+      "enabled": true,
+      "unavailable": false,
+      "alwaysEnabled": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": "#left-sidebar-content",
+        "type": "end"
+      },
+      "showCustomIcons": false,
+      "showDefaultFolderIcons": false,
+      "showDefaultFileIcons": false,
+      "defaultFolderIcon": "lucide//folder",
+      "defaultFileIcon": "lucide//file",
+      "defaultMediaIcon": "lucide//file-image",
+      "exposeStartingPath": true,
+      "includePath": "site-lib/html/file-tree.html"
+    },
+    "searchOptions": {
+      "featureId": "search",
+      "enabled": true,
+      "unavailable": false,
+      "alwaysEnabled": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": "#left-sidebar .topbar-content",
+        "type": "start"
+      },
+      "displayTitle": "搜索..."
+    },
+    "outlineOptions": {
+      "featureId": "outline",
+      "enabled": true,
+      "unavailable": false,
+      "alwaysEnabled": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": "#right-sidebar-content",
+        "type": "end"
+      },
+      "displayTitle": "大纲",
+      "startCollapsed": false,
+      "minCollapseDepth": 0
+    },
+    "themeToggleOptions": {
+      "featureId": "theme-toggle",
+      "enabled": true,
+      "unavailable": false,
+      "alwaysEnabled": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": "#right-sidebar .topbar-content",
+        "type": "start"
+      },
+      "displayTitle": ""
+    },
+    "graphViewOptions": {
+      "featureId": "graph-view",
+      "enabled": true,
+      "unavailable": false,
+      "alwaysEnabled": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": "#right-sidebar-content",
+        "type": "start"
+      },
+      "displayTitle": "图形视图",
+      "showOrphanNodes": true,
+      "showAttachments": false,
+      "allowGlobalGraph": true,
+      "allowExpand": true,
+      "attractionForce": 1,
+      "linkLength": 15,
+      "repulsionForce": 80,
+      "centralForce": 2,
+      "edgePruning": 100,
+      "minNodeRadius": 3,
+      "maxNodeRadius": 7
+    },
+    "sidebarOptions": {
+      "featureId": "sidebar",
+      "enabled": true,
+      "unavailable": false,
+      "alwaysEnabled": false,
+      "hideSettingsButton": false,
+      "allowResizing": true,
+      "allowCollapsing": true,
+      "rightDefaultWidth": "20em",
+      "leftDefaultWidth": "20em"
+    },
+    "customHeadOptions": {
+      "featureId": "custom-head",
+      "enabled": true,
+      "unavailable": false,
+      "alwaysEnabled": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": "head",
+        "type": "end"
+      },
+      "sourcePath": "",
+      "includePath": "site-lib/html/custom-head.html"
+    },
+    "documentOptions": {
+      "featureId": "obsidian-document",
+      "enabled": true,
+      "unavailable": false,
+      "alwaysEnabled": true,
+      "hideSettingsButton": false,
+      "allowFoldingLists": true,
+      "allowFoldingHeadings": true,
+      "documentWidth": "40em"
+    },
+    "rssOptions": {
+      "featureId": "rss",
+      "enabled": true,
+      "unavailable": false,
+      "alwaysEnabled": false,
+      "hideSettingsButton": false,
+      "siteUrl": "",
+      "authorName": ""
+    },
+    "linkPreviewOptions": {
+      "featureId": "link-preview",
+      "enabled": true,
+      "unavailable": false,
+      "alwaysEnabled": false,
+      "hideSettingsButton": true
+    },
+    "relativeHeaderLinks": false,
+    "includeJS": true,
+    "includeCSS": true,
+    "inlineMedia": false,
+    "inlineCSS": false,
+    "inlineJS": false,
+    "inlineFonts": false,
+    "inlineOther": false,
+    "combineAsSingleFile": false,
+    "offlineResources": false,
+    "themeName": "Minimal",
+    "slugifyPaths": true,
+    "flattenExportPaths": false,
+    "fixLinks": true,
+    "faviconPath": "",
+    "siteName": "知识库",
+    "iconEmojiStyle": "Native",
+    "exportRoot": "网页设计器/网页设计器使用手册",
+    "includePluginCss": [
+      "manual-sorting",
+      "obsidian-git"
+    ],
+    "includeStyleCssIds": [],
+    "autoDisposeWebpages": true
+  },
+  "logLevel": "warning",
+  "titleProperty": "title",
+  "rssDateProperty": "date",
+  "onlyExportModified": true,
+  "deleteOldFiles": true,
+  "exportPreset": "online",
+  "openAfterExport": true,
+  "filePickerBlacklist": [
+    "(^|\\/)node_modules\\/",
+    "(^|\\/)dist\\/",
+    "(^|\\/)dist-ssr\\/",
+    "(^|\\/)\\.vscode\\/"
+  ],
+  "filePickerWhitelist": [
+    "\\.\\w+$"
+  ]
+}

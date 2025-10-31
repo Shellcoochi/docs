@@ -1,4 +1,7 @@
 {
   "theme": "system",
-  "showRibbon": true
+  "showRibbon": true,
+  "cssTheme": "Minimal",
+  "accentColor": "",
+  "translucency": false
 }
