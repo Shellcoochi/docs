@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/图表组件/柱状图.md",
+                "file": "articles/ENIAC 代号 PX/article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "柱状图 的反向链接列表"
+              "title": "article 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/图表组件/柱状图.md",
+                "file": "articles/ENIAC 代号 PX/article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "柱状图 的出链列表"
+              "title": "article 的出链列表"
             }
           },
           {
@@ -181,7 +181,7 @@
       "webpage-html-export:导出为HTML": false
     }
   },
-  "active": "b4757c314d53d031",
+  "active": "e9dedb1f28f48f54",
   "lastOpenFiles": [
     "网页设计器/网页设计器使用手册/大纲草稿.md",
     "articles/ENIAC 代号 PX/article.md",
