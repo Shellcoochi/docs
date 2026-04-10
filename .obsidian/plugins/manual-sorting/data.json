@@ -1,9 +1,15 @@
 {
   "customFileOrder": {
     "/": [
+      "articles",
+      "架构",
       "网页设计器"
     ],
+    "架构": [
+      "架构/1.计算机硬件.pdf"
+    ],
     "网页设计器": [
+      "网页设计器/website",
       "网页设计器/网页设计器使用手册"
     ],
     "网页设计器/网页设计器使用手册": [
@@ -86,6 +92,161 @@
     ],
     "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/展示组件": [
       "网页设计器/网页设计器使用手册/组件使用指南/PC端组件/展示组件/轮播图.md"
+    ],
+    "网页设计器/website": [
+      "网页设计器/website/入门",
+      "网页设计器/website/组件使用指南",
+      "网页设计器/website/site-lib"
+    ],
+    "网页设计器/website/入门": [
+      "网页设计器/website/入门/附件",
+      "网页设计器/website/入门/简介.html"
+    ],
+    "网页设计器/website/入门/附件": [
+      "网页设计器/website/入门/附件/简介1.jpeg",
+      "网页设计器/website/入门/附件/chrome-capture-2025-9-9.gif",
+      "网页设计器/website/入门/附件/简介2.png"
+    ],
+    "网页设计器/website/组件使用指南": [
+      "网页设计器/website/组件使用指南/pc端组件"
+    ],
+    "网页设计器/website/组件使用指南/pc端组件": [
+      "网页设计器/website/组件使用指南/pc端组件/布局组件",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件",
+      "网页设计器/website/组件使用指南/pc端组件/图表组件",
+      "网页设计器/website/组件使用指南/pc端组件/展示组件"
+    ],
+    "网页设计器/website/组件使用指南/pc端组件/布局组件": [
+      "网页设计器/website/组件使用指南/pc端组件/布局组件/折叠面板.html",
+      "网页设计器/website/组件使用指南/pc端组件/布局组件/卡片.html"
+    ],
+    "网页设计器/website/组件使用指南/pc端组件/通用组件": [
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/附件",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/文本.html",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/markdown.html",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/html-元素.html",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/图片.html",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/链接.html",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/对话.html",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/二维码.html",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/滚动条.html",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/文字提示.html",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/空状态.html",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/骨架屏.html",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/标记.html",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/标签.html",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/按钮.html",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/头像.html"
+    ],
+    "网页设计器/website/组件使用指南/pc端组件/通用组件/附件": [
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/附件/下载模式链接.webm",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/附件/基础markdown.png",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/附件/代码斜体下划线文本.webm",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/附件/基础图片.webm",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/附件/基础文本.webm",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/附件/新窗口打开链接.webm",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/附件/渐变色文本-1.webm",
+      "网页设计器/website/组件使用指南/pc端组件/通用组件/附件/自定义下载链接.webm"
+    ],
+    "网页设计器/website/组件使用指南/pc端组件/图表组件": [
+      "网页设计器/website/组件使用指南/pc端组件/图表组件/附件",
+      "网页设计器/website/组件使用指南/pc端组件/图表组件/柱状图.html"
+    ],
+    "网页设计器/website/组件使用指南/pc端组件/图表组件/附件": [
+      "网页设计器/website/组件使用指南/pc端组件/图表组件/附件/四季度销售额对比柱状图.webm",
+      "网页设计器/website/组件使用指南/pc端组件/图表组件/附件/带标题柱状图.webm",
+      "网页设计器/website/组件使用指南/pc端组件/图表组件/附件/数据对比柱状图.webm",
+      "网页设计器/website/组件使用指南/pc端组件/图表组件/附件/设置横向柱状图.webm"
+    ],
+    "网页设计器/website/组件使用指南/pc端组件/展示组件": [
+      "网页设计器/website/组件使用指南/pc端组件/展示组件/轮播图.html"
+    ],
+    "网页设计器/website/site-lib": [
+      "网页设计器/website/site-lib/fonts",
+      "网页设计器/website/site-lib/html",
+      "网页设计器/website/site-lib/media",
+      "网页设计器/website/site-lib/scripts",
+      "网页设计器/website/site-lib/styles",
+      "网页设计器/website/site-lib/rss.xml",
+      "网页设计器/website/site-lib/metadata.json",
+      "网页设计器/website/site-lib/search-index.json"
+    ],
+    "网页设计器/website/site-lib/fonts": [
+      "网页设计器/website/site-lib/fonts/94f2f163d4b698242fef.otf",
+      "网页设计器/website/site-lib/fonts/05b618077343fbbd92b7.ttf",
+      "网页设计器/website/site-lib/fonts/085cb93e613ba3d40d2b.woff2",
+      "网页设计器/website/site-lib/fonts/293fd13dbca5a3e450ef.woff2",
+      "网页设计器/website/site-lib/fonts/2d5198822ab091ce4305.woff2",
+      "网页设计器/website/site-lib/fonts/454577c22304619db035.ttf",
+      "网页设计器/website/site-lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "网页设计器/website/site-lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "网页设计器/website/site-lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "网页设计器/website/site-lib/fonts/70cc7ff27245e82ad414.ttf",
+      "网页设计器/website/site-lib/fonts/72505e6a122c6acd5471.woff2",
+      "网页设计器/website/site-lib/fonts/b5f0f109bc88052d4000.woff2",
+      "网页设计器/website/site-lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "网页设计器/website/site-lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "网页设计器/website/site-lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "网页设计器/website/site-lib/fonts/mathjax_ams-regular.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_calligraphic-regular.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_calligraphic-bold.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_main-bold.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_main-italic.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_main-regular.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_math-bolditalic.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_math-italic.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_size1-regular.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_size2-regular.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_size3-regular.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_size4-regular.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_zero.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_fraktur-bold.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_fraktur-regular.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_sansserif-bold.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_sansserif-italic.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_sansserif-regular.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_script-regular.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_typewriter-regular.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_vector-bold.woff",
+      "网页设计器/website/site-lib/fonts/mathjax_vector-regular.woff"
+    ],
+    "网页设计器/website/site-lib/html": [
+      "网页设计器/website/site-lib/html/file-tree-content.html"
+    ],
+    "网页设计器/website/site-lib/media": [
+      "网页设计器/website/site-lib/media/2308ab1944a6bfa5c5b8.svg",
+      "网页设计器/website/site-lib/media/6155340132a851f6089e.svg",
+      "网页设计器/website/site-lib/media/favicon.png"
+    ],
+    "网页设计器/website/site-lib/scripts": [
+      "网页设计器/website/site-lib/scripts/graph-wasm.wasm",
+      "网页设计器/website/site-lib/scripts/graph-render-worker.js",
+      "网页设计器/website/site-lib/scripts/graph-wasm.js",
+      "网页设计器/website/site-lib/scripts/webpage.js"
+    ],
+    "网页设计器/website/site-lib/styles": [
+      "网页设计器/website/site-lib/styles/obsidian.css",
+      "网页设计器/website/site-lib/styles/global-variable-styles.css",
+      "网页设计器/website/site-lib/styles/main-styles.css",
+      "网页设计器/website/site-lib/styles/other-plugins.css",
+      "网页设计器/website/site-lib/styles/supported-plugins.css",
+      "网页设计器/website/site-lib/styles/theme.css"
+    ],
+    "articles": [
+      "articles/ENIAC 代号 PX",
+      "articles/谷歌Scion：一个让AI代理“放养”编程的“安全沙盒”平台"
+    ],
+    "articles/谷歌Scion：一个让AI代理“放养”编程的“安全沙盒”平台": [
+      "articles/谷歌Scion：一个让AI代理“放养”编程的“安全沙盒”平台/assets",
+      "articles/谷歌Scion：一个让AI代理“放养”编程的“安全沙盒”平台/article.md"
+    ],
+    "articles/谷歌Scion：一个让AI代理“放养”编程的“安全沙盒”平台/assets": [
+      "articles/谷歌Scion：一个让AI代理“放养”编程的“安全沙盒”平台/assets/image copy.png",
+      "articles/谷歌Scion：一个让AI代理“放养”编程的“安全沙盒”平台/assets/image.png",
+      "articles/谷歌Scion：一个让AI代理“放养”编程的“安全沙盒”平台/assets/截屏2026-04-07 19.41.51.png"
+    ],
+    "articles/ENIAC 代号 PX": [
+      "articles/ENIAC 代号 PX/article.md"
     ]
   },
   "draggingEnabled": true,
